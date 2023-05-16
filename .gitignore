@@ -1,2 +1,10 @@
 
 .DS_Store
+venv
+.gitattributes
+.gitignore
+*.csv
+*.xml
+.idea/Sample_code-for-my-youtube-channel.iml
+temp.py
+*.xlsx
